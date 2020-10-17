@@ -268,6 +268,17 @@ h5 {
     width: auto;
     height: auto;
 }
+.pumpkin-white {
+    background-image: url("../img/pumpkin-white.svg");
+    width: auto;
+    height: auto;
+}
+.pumpkin {
+    background-image: url("../img/pumpkin.svg");
+    width: auto;
+    height: auto;
+}
+
 .liberty:before { content: "\2014"; }
 .liberty > span { display: none; }
 
